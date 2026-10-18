@@ -1,18 +1,18 @@
-### Stats
+###  Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ferihner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferihner&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ferihner&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferihner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### About Me
 
-Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to the fullest of my abilities, plus DM me if u want me to make stuff 4 u. Not guaranteed tho🥶.
+Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to the fullest of my abilities, plus DM me if u want me to make stuff 4 u. Not guaranteed tho🥶.Also I like geese.
 
-#### Connect with me on Instagram
+#### 🔗 Connect with me on Instagram:
 <p>
   <a href="https://instagram.com/goosewithwifi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-goosewithwifi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -27,3 +27,14 @@ Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to t
   <a href="https://instagram.com/goosewithwifi5.0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-goosewithwifi5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake.svg">
+</picture>
