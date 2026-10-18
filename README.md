@@ -10,7 +10,7 @@
 
 ### About Me
 
-Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to the fullest of my abilities, plus DM me if u want me to make stuff 4 u. Not guaranteed tho🥶.Also I like geese.
+Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to the fullest of my abilities, plus DM me if u want me to make stuff 4 u. Not guaranteed tho🥶. Also I like geese.
 
 #### 🔗 Connect with me on Instagram:
 <p>
@@ -29,12 +29,3 @@ Hey there! 👋 Welcome to my GitHub profile! I'm a vibecoder exploiting AI to t
   </a>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferihner/ferihner/output/github-contribution-grid-snake.svg">
-</picture>
